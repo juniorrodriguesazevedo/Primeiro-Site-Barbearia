@@ -1,0 +1,50 @@
+header {
+    background: url("/img/imagem-fundo.jpg");
+    text-align: center;
+    padding: 20px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+section h2 {
+    font-size: 35px;
+    font-family: Lato, sans-serif;
+    font-weight: bold;
+    color: #003d8b;
+    margin-bottom: 12px;
+}
+
+.mapa-google {
+    text-align: center;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    background: url("/img/imagem-fundo-rodape.jpg");
+    padding: 10px;
+}
+
+.copyright {
+    font-size: 20px;
+    color: #ffffff;
+    background: #000000;
+    text-align: center;
+    padding: 5px;
+}
+
+.copyright a {
+    text-decoration: none;
+    color: #ffffff;
+}
