@@ -1,2 +1,5 @@
 # Primeiro-Site-Barbearia
- Site que fiz pra meu irmão (que começou corta cabelo agora) utilizando a framework Laravel.
+
+ Projeto feito para fins de aprendizado e treinamento usando a Framework PHP - Laravel.
+ 
+ 
