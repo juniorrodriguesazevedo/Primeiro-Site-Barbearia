@@ -1,11 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BarbeariaController;
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', [BarbeariaController::class, 'index']);
 
-Route::get('/contato', function () {
-    return view('contato');
-});
+Route::get('/contato', [BarbeariaController::class, 'contato']);
